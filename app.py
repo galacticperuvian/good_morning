@@ -38,7 +38,7 @@ def home():
     </head>
     <body>
         <div class="card">
-            <h1>Buenos días, hermosa ❤️</h1>
+            <h1>Buenos días, muñeca hermosa 😉</h1>
             <p>Solo quería que tu primer clic del día fuera una sonrisa.</p>
         </div>
     </body>
